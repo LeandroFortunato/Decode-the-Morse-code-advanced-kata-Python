@@ -1,6 +1,6 @@
-# Decode-the-Morse-code-advanced-kata-Python
+# Decode the Morse code, advanced
 
- write a Morse code decoder for wired electrical telegraph.
+Write a Morse code decoder for wired electrical telegraph.
 Electric telegraph is operated on a 2-wire line with a key that, when pressed, connects the wires together, which can be detected on a remote station. The Morse code encodes every character being transmitted as a sequence of "dots" (short presses on the key) and "dashes" (long presses on the key).
 
 When transmitting the Morse code, the international standard specifies that:
@@ -33,3 +33,5 @@ The Morse code table is preloaded for you (see the solution setup, to get its id
 Eg:
   morseCodes(".--") //to access the morse translation of ".--"
 All the test strings would be valid to the point that they could be reliably decoded as described above, so you may skip checking for errors and exceptions, just do your best in figuring out what the message is!
+
+Source: https://www.codewars.com/kata/54b72c16cd7f5154e9000457
